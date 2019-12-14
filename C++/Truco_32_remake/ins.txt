@@ -1,0 +1,7 @@
+En este juego de cartas españolas, cada jugador recibe 3 cartas.
+El objetivo es llegar a 15 puntos. Esto se logra ganando 2 de 3 manos del juego. Cada mano se gana tirando una carta más grande que la que tire el oponente.
+Cada jugador en su turno podrá cantar envido, real envido, falta envidio y en caso de jugarse con flor, ella no permitiria
+poder cantar envido. Ademas se puede cantar contra flor o contra flor al resto
+El envido consta de tener 2 cartas del mismo
+La flor vale 3 puntos
+Luego se puede cantar Truco, Retruco, Vale cuatro. Se puede cantar truco antes que el envido, pero el oponente si no tiro la primera carta, puede cantar los tantos.
