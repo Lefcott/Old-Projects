@@ -1,0 +1,1 @@
+El ocultator fue desinstalado de su computadora.

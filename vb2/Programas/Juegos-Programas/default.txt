@@ -1,0 +1,7 @@
+#Juegos.lst
+#Juegos-Programas.btn
+#Title.lbl
+#Panel1.pnl
+#img (width-heigth)
+#form (width-heigth)
+#Programas
