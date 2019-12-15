@@ -1,24 +1,22 @@
 Initialize engine version: 4.5.2f1 (9abb1b59b47c)
 GfxDevice: creating device client; threaded=1
-d3d11: failed to create D3D11 device (0x887a0004)
-GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 9.0c [igdumd32.dll 8.14.8.1096]
-    Renderer: Intel(R) Graphics Media Accelerator 3600 Series
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
     Vendor:   Intel
-    VRAM:     749 MB (via DXGI)
-    Caps:     Shader=30 DepthRT=1 NativeDepth=0 NativeShadow=1 DF16=0 INTZ=0 RAWZ=0 NULL=0 RESZ=0 SlowINTZ=0
+    VRAM:     128 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Mis cosas\Mansión sin salida_32\mansionSinSalida_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Mis cosas\Mansión sin salida_32\mansionSinSalida_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Mis cosas\Mansión sin salida_32\mansionSinSalida_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Mis cosas\Mansión sin salida_32\mansionSinSalida_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Mis cosas\Mansión sin salida_32\mansionSinSalida_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Mis cosas\Mansión sin salida_32\mansionSinSalida_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Mis cosas\Mansión sin salida_32\mansionSinSalida_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Mis cosas\Mansión sin salida_32\mansionSinSalida_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.239 seconds
-desktop: 1024x600 60Hz; virtual: 1024x600 at 0,0
+Platform assembly: C:\Users\wider\Documents\Workspaces\Lefcott\Old-Projects\Compilados\Mansión sin salida_32\mansionSinSalida_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\wider\Documents\Workspaces\Lefcott\Old-Projects\Compilados\Mansión sin salida_32\mansionSinSalida_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\wider\Documents\Workspaces\Lefcott\Old-Projects\Compilados\Mansión sin salida_32\mansionSinSalida_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\wider\Documents\Workspaces\Lefcott\Old-Projects\Compilados\Mansión sin salida_32\mansionSinSalida_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\wider\Documents\Workspaces\Lefcott\Old-Projects\Compilados\Mansión sin salida_32\mansionSinSalida_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\wider\Documents\Workspaces\Lefcott\Old-Projects\Compilados\Mansión sin salida_32\mansionSinSalida_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\wider\Documents\Workspaces\Lefcott\Old-Projects\Compilados\Mansión sin salida_32\mansionSinSalida_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\wider\Documents\Workspaces\Lefcott\Old-Projects\Compilados\Mansión sin salida_32\mansionSinSalida_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
+XInput1_3.dll not found.
 <RI> Input initialized.
-Platform assembly: C:\Mis cosas\Mansión sin salida_32\mansionSinSalida_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\wider\Documents\Workspaces\Lefcott\Old-Projects\Compilados\Mansión sin salida_32\mansionSinSalida_Data\Managed\Boo.Lang.dll (this message is harmless)
